@@ -8,13 +8,19 @@ h1 {
 				font-family: "Times New Roman", Times, serif;
 				font-size: 30px;
 }
-hs {
+h2 {
 				font-family: "Times New Roman", Times, serif;
 				font-size: 18px;
 }
 h3 {
 				font-family: "Times New Roman", Times, serif;
 				font-size: 16px;
+}
+h4 {
+				font-family: "Times New Roman", Times, serif;
+				font-size: 48px;
+				font-weight: bold;
+				text-align: center;
 }
 body {
 				background-color: #33FBA6;
